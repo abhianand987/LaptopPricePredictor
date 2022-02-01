@@ -1,2 +1,2 @@
 # LaptopPricePredictor
-I have created this Laptop Price Predicto using Random Forest Algorithm.
+I have created this Laptop Price Predictor using Random Forest Algorithm.
